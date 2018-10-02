@@ -1,3 +1,3 @@
 # TestingTime
-Test Project for learning how to use GitHub
+Test des fonctionnalitées GitHub
 Ce Readme a été modifié afin de voir le déroulement des opérations qui suivent.
